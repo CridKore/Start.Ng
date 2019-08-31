@@ -1,0 +1,25 @@
+#container {
+	background-color: #4a9aca;
+	width: 500px;
+	height: 700px;
+	overflow: scroll;
+}
+
+.avatar {
+	padding-top: 5px;
+	border-radius: 160px;
+}
+
+.name {
+	font-style: "Helvetica, sans-serif";
+	margin-bottom: -3px;
+}
+
+.section {
+	padding-top: 8px;
+	padding-bottom: 15px;
+}
+
+.exp_comp {
+	color: #fff;
+}
